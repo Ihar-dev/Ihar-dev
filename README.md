@@ -1,1 +1,1 @@
-# Ihar-dev
+# JavaScript/Front-end Developer
