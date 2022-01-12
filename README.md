@@ -9,7 +9,11 @@
 [![English level](https://img.shields.io/badge/English-C1_Advanced-2D46B9?style=flat-square-endpoint&labelColor=EADEDE&logoColor=2D46B9)]()
 
 ## My projects
-[![Art Quiz](https://img.shields.io/badge/Art_Quiz-3F3351?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://rolling-scopes-school.github.io/ihar-dev-JSFE2021Q3/art-quiz/) [![News Portal](https://img.shields.io/badge/News_Portal-3F3351?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://rolling-scopes-school.github.io/ihar-dev-JSFE2021Q3/migration-to-TypeScript/) [![Momentum](https://img.shields.io/badge/Momentum-3F3351?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://rolling-scopes-school.github.io/ihar-dev-JSFE2021Q3/momentum/)
+[![Christmas task](https://img.shields.io/badge/Christmas_task-348128?style=flat-square-endpoint&logo=github&logoColor=348128&labelColor=F3F3F3)](https://rolling-scopes-school.github.io/ihar-dev-JSFE2021Q3/christmas-task/)
+
+[![Art Quiz](https://img.shields.io/badge/Art_Quiz-6F4C5B?style=flat-square-endpoint&logo=github&logoColor=6F4C5B&labelColor=F3F3F3)](https://rolling-scopes-school.github.io/ihar-dev-JSFE2021Q3/art-quiz/)
+
+[![News Portal](https://img.shields.io/badge/News_Portal-3F3351?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://rolling-scopes-school.github.io/ihar-dev-JSFE2021Q3/migration-to-TypeScript/) [![Momentum](https://img.shields.io/badge/Momentum-3F3351?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://rolling-scopes-school.github.io/ihar-dev-JSFE2021Q3/momentum/)
 
 [![Museum Dom](https://img.shields.io/badge/Museum_Dom-3F3351?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://rolling-scopes-school.github.io/ihar-dev-JSFE2021Q3/museum-dom/) [![Museum Adaptive](https://img.shields.io/badge/Museum_Adaptive-3F3351?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://rolling-scopes-school.github.io/ihar-dev-JSFE2021Q3/museum-adaptive/) [![CSS Mem Slider](https://img.shields.io/badge/CSS_Mem_Slider-3F3351?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://ihar-dev.github.io/cssMemSlider/cssMemSlider/)
 
