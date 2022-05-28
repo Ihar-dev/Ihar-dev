@@ -1,4 +1,4 @@
-# JavaScript/Front-end Developer
+# JavaScript Front-end (Angular) Developer
 
 ## My Stack
 ![HTML](https://img.shields.io/badge/HTML-red?style=flat-square-endpoint&logo=html5&labelColor=F3F3F3) ![CSS](https://img.shields.io/badge/CSS-2E4C6D?style=flat-square-endpoint&logo=css3) ![SCSS](https://img.shields.io/badge/SCSS-F3F3F3?style=flat-square-endpoint&logo=sass) ![JavaScript](https://img.shields.io/badge/JavaScript-5089C6?style=flat-square-endpoint&logo=javascript&logoColor=) ![TypeScript](https://img.shields.io/badge/TypeScript-EEEEEE?style=flat-square-endpoint&logo=typescript&logoColor=) ![Git](https://img.shields.io/badge/Git-6E85B2?style=flat-square-endpoint&logo=git&logoColor=) ![Webpack](https://img.shields.io/badge/Webpack-blue?style=flat-square-endpoint&logo=webpack&labelColor=F3F3F3&logoColor=blue) ![Node JS](https://img.shields.io/badge/Node_JS-EADEDE?style=flat-square-endpoint&logo=nodedotjs&logoColor=) ![Figma](https://img.shields.io/badge/Figma-892CDC?style=flat-square-endpoint&logo=figma&logoColor=892CDC&labelColor=EADEDE)  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-6E85B2?style=flat-square-endpoint&logo=visualstudiocode&logoColor=916BBF&labelColor=EADEDE)
@@ -16,7 +16,7 @@
 [![YouTube Client App](https://img.shields.io/badge/YouTube_Client_App-D83A56?style=flat-square-endpoint&logo=github&logoColor=D83A56&labelColor=F3F3F3)](https://ihar-dev.github.io/youtube-client/YouTube-client-app/dist/you-tube-client-app)
 
 #### HTML/CSS/JavaScript projects
-[![RS Lang](https://img.shields.io/badge/RS_Lang-blue?style=flat-square-endpoint&logo=github&logoColor=blue&labelColor=F3F3F3)](https://ihar-dev.github.io/rslang/app) - JavaScript team task (as a Team Lead) [Video link](https://youtu.be/5j-6WmDMNGY)
+[![RS Lang](https://img.shields.io/badge/RS_Lang-blue?style=flat-square-endpoint&logo=github&logoColor=blue&labelColor=F3F3F3)](https://ihar-dev.github.io/rslang/app) - HTML/CSS/JavaScript team task (as a Team Lead) [Video link](https://youtu.be/5j-6WmDMNGY)
 
 [![Async Race](https://img.shields.io/badge/Async_Race-FF6464?style=flat-square-endpoint&logo=github&logoColor=FF6464&labelColor=F3F3F3)](https://rolling-scopes-school.github.io/ihar-dev-JSFE2021Q3/async-race/) async-race-api installed needed [![async-race-api](https://img.shields.io/badge/async_race_api-FF6464?style=flat-square-endpoint&logo=github&logoColor=FF6464&labelColor=F3F3F3)](https://github.com/mikhama/async-race-api)
 
