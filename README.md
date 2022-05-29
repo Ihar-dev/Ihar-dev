@@ -32,6 +32,8 @@
 
 ## My certificates
 
+* The Rolling Scopes School (RSSchool): [ANGULAR 2022Q1 (JAVASCRIPT)](https://app.rs.school/certificate/ggpx005j)
+
 * The Rolling Scopes School (RSSchool): [JAVASCRIPT/FRONT-END 2021Q3 (JAVASCRIPT)](https://app.rs.school/certificate/n5a0zntm)
 
 * The Rolling Scopes School (RSSchool): [JS/FE PRE-SCHOOL (JAVASCRIPT)](https://app.rs.school/certificate/okxpqxx4)
