@@ -10,6 +10,8 @@
 [![English level](https://img.shields.io/badge/English-C1_Advanced-2D46B9?style=flat-square-endpoint&labelColor=EADEDE&logoColor=2D46B9)]()
 
 ## My projects
+#### Node.js projects
+* WebSockets, robotjs, jimp: [Websocket Remote Control](https://github.com/Ihar-dev/websocket-remote-control/pull/1)
 #### Angular projects
 [![Project Management App](https://img.shields.io/badge/Project_Management_App-D83A56?style=flat-square-endpoint&logo=github&logoColor=D83A56&labelColor=F3F3F3)](https://ihar-dev.github.io/project-management-app/project-management-app/dist/project-management-app) - Angular team task (as a Team Lead) [Video link](https://youtu.be/TXBK4Bc3swc)
 
