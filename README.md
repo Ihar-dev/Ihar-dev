@@ -11,7 +11,9 @@
 
 ## My projects
 #### Node.js projects
-* WebSockets, robotjs, jimp: [Websocket Remote Control](https://github.com/Ihar-dev/websocket-remote-control/pull/1)
+* WebSockets, Robotjs, Jimp: [Websocket Remote Control](https://github.com/Ihar-dev/websocket-remote-control/pull/1)
+
+* HTTP CRUD Server, Cluster, Jest Tests: [CRUD API](https://github.com/Ihar-dev/CRUD-API/pull/1)
 #### Angular projects
 [![Project Management App](https://img.shields.io/badge/Project_Management_App-D83A56?style=flat-square-endpoint&logo=github&logoColor=D83A56&labelColor=F3F3F3)](https://ihar-dev.github.io/project-management-app/project-management-app/dist/project-management-app) - Angular team task (as a Team Lead) [Video link](https://youtu.be/TXBK4Bc3swc)
 
