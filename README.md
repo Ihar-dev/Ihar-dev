@@ -11,6 +11,7 @@
 
 ## My projects
 #### Node.js projects
+* Graphql, Nest.js: [Graphql Service](https://github.com/Ihar-dev/graphql-nestjs-app/pull/1)
 * WebSockets, createWebSocketStream, Robotjs, Jimp: [Websocket Remote Control](https://github.com/Ihar-dev/websocket-remote-control/pull/1)
 
 * HTTP CRUD Server, Cluster, Jest Tests: [CRUD API](https://github.com/Ihar-dev/CRUD-API/pull/1)
