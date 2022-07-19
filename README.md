@@ -17,6 +17,7 @@
 * HTTP CRUD Server, Cluster, Jest Tests: [CRUD API](https://github.com/Ihar-dev/CRUD-API/pull/1)
 
 * File system, OS, Readline, Streams, Environment: [File Manager](https://github.com/Ihar-dev/file-manager/pull/1)
+* File system, CLI, Modules, Hash, Streams, Zlib, Worker Threads, Child Processes: [Node.js basics](https://github.com/Ihar-dev/node-nodejs-basics/pull/1)
 #### Angular projects
 [![Project Management App](https://img.shields.io/badge/Project_Management_App-D83A56?style=flat-square-endpoint&logo=github&logoColor=D83A56&labelColor=F3F3F3)](https://ihar-dev.github.io/project-management-app/project-management-app/dist/project-management-app) - Angular team task (as a Team Lead) [Video link](https://youtu.be/TXBK4Bc3swc)
 
