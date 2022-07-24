@@ -13,6 +13,7 @@
 
 ## My projects
 #### Node.js projects
+* Nest.js, REST API, Swagger: [REST Service](https://github.com/Ihar-dev/nodejs2022Q2-service/pull/1)
 * Graphql, Nest.js: [Graphql Service](https://github.com/Ihar-dev/graphql-nestjs-app/pull/1)
 * WebSockets, createWebSocketStream, Robotjs, Jimp: [Websocket Remote Control](https://github.com/Ihar-dev/websocket-remote-control/pull/1)
 
