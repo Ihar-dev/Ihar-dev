@@ -13,6 +13,7 @@
 
 ## My projects
 #### Node.js projects
+* Nest.js, PostgreSQL, Prisma, Migrations, Relations: [REST service: PostgreSQL & ORM](https://github.com/Ihar-dev/nodejs2022Q2-service/pull/3)
 * Docker, Dockerfile, docker-compose.yml, volumes, networks: [REST service: Containerization, Docker](https://github.com/Ihar-dev/nodejs2022Q2-service/pull/2)
 * Nest.js, REST API, Swagger: [REST Service](https://github.com/Ihar-dev/nodejs2022Q2-service/pull/1)
 * Graphql, Nest.js: [Graphql Service](https://github.com/Ihar-dev/graphql-nestjs-app/pull/1)
