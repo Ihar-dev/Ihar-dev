@@ -47,11 +47,13 @@
 
 ## My certificates
 
-* The Rolling Scopes School (RSSchool): [ANGULAR 2022Q1 (JAVASCRIPT)](https://app.rs.school/certificate/ggpx005j)
+* The Rolling Scopes School (score position: 36/1492): [NODEJS 2022 Q2 (NODE.JS)](https://app.rs.school/certificate/t2glkje2)
 
-* The Rolling Scopes School (RSSchool): [JAVASCRIPT/FRONT-END 2021Q3 (JAVASCRIPT)](https://app.rs.school/certificate/n5a0zntm)
+* The Rolling Scopes School (score position: 32/785): [ANGULAR 2022Q1 (JAVASCRIPT)](https://app.rs.school/certificate/ggpx005j)
 
-* The Rolling Scopes School (RSSchool): [JS/FE PRE-SCHOOL (JAVASCRIPT)](https://app.rs.school/certificate/okxpqxx4)
+* The Rolling Scopes School (score position: 87/5799): [JAVASCRIPT/FRONT-END 2021Q3 (JAVASCRIPT)](https://app.rs.school/certificate/n5a0zntm)
+
+* The Rolling Scopes School (score position: 26/6230): [JS/FE PRE-SCHOOL (JAVASCRIPT)](https://app.rs.school/certificate/okxpqxx4)
 
 * EnglishScore Certificate  ID: 71f74401: [British Council](https://www.englishscore.com/verify)
 
