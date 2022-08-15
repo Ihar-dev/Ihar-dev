@@ -13,6 +13,8 @@
 
 ## My projects
 #### Node.js projects
+* Nest.js, NestMiddleware, ExceptionFilter, uncaughtException, unhandledRejection: [REST service: Logging & Error Handling](https://github.com/Ihar-dev/nodejs2022Q2-service/pull/5)
+* Nest.js, JWT, Strategies, Guards: [REST service: Authentication & Authorization](https://github.com/Ihar-dev/nodejs2022Q2-service/pull/4)
 * Nest.js, PostgreSQL, Prisma, Migrations, Relations: [REST service: PostgreSQL & ORM](https://github.com/Ihar-dev/nodejs2022Q2-service/pull/3)
 * Docker, Dockerfile, docker-compose.yml, volumes, networks: [REST service: Containerization, Docker](https://github.com/Ihar-dev/nodejs2022Q2-service/pull/2)
 * Nest.js, REST API, Swagger: [REST Service](https://github.com/Ihar-dev/nodejs2022Q2-service/pull/1)
