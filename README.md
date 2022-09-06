@@ -60,3 +60,6 @@
 
 ## My Contacts
 [![Discord](https://img.shields.io/badge/Discord-%40IgorKozik%239325-blue?style=flat-square-endpoint&logo=discord&logoColor=blue&labelColor=EEEEEE)](https://discord.com) [![Gmail](https://img.shields.io/badge/Gmail-ihar.kozik-red?style=flat-square-endpoint&logo=gmail&logoColor=red&labelColor=FFFFFF)](mailto:ihar.kozik@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-%40igorintelegram-blue?style=flat-square-endpoint&logo=telegram&logoColor=blue&labelColor=EEEEEE)](https://t.me/igorintelegram) [![Linkedin](https://img.shields.io/badge/linkedin-Ihar_Kozik-grey?style=flat-square-endpoint&logo=linkedin&logoColor=grey&labelColor=EEEEEE)](https://www.linkedin.com/in/ihar-kozik)
+
+## Stats
+[![Ihar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihar-dev&hide=stars,issues,contribs&show_icons=true&theme=dark)](https://github.com/Ihar-dev/github-readme-stats)
