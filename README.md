@@ -26,9 +26,19 @@
 * File system, OS, Readline, Streams, Environment: [File Manager](https://github.com/Ihar-dev/file-manager/pull/1)
 * File system, CLI, Modules, Hash, Streams, Zlib, Worker Threads, Child Processes: [Node.js basics](https://github.com/Ihar-dev/node-nodejs-basics/pull/1)
 #### Angular projects
-[![Project Management App](https://img.shields.io/badge/Project_Management_App-D83A56?style=flat-square-endpoint&logo=github&logoColor=D83A56&labelColor=F3F3F3)](https://ihar-dev.github.io/project-management-app/project-management-app/dist/project-management-app) - Angular team task (as a Team Lead) [Video link](https://youtu.be/TXBK4Bc3swc)
+[![Project Management App](https://img.shields.io/badge/Project_Management_App-D83A56?style=flat-square-endpoint&logo=github&logoColor=D83A56&labelColor=F3F3F3)](https://ihar-dev.github.io/project-management-app/project-management-app/dist/project-management-app) - Angular team task (as a Team Lead) [Video link](https://youtu.be/TXBK4Bc3swc) [Pull Request link](https://github.com/Ihar-dev/project-management-app/pull/35)
 
 [![YouTube Client App](https://img.shields.io/badge/YouTube_Client_App-D83A56?style=flat-square-endpoint&logo=github&logoColor=D83A56&labelColor=F3F3F3)](https://ihar-dev.github.io/youtube-client/YouTube-client-app/dist/you-tube-client-app)
+
+* Angular. NgRX. [YouTube Client App stage5](https://github.com/Ihar-dev/youtube-client/pull/7)
+
+* Angular. Forms. [YouTube Client App stage4](https://github.com/Ihar-dev/youtube-client/pull/5) 
+
+* Angular. RxJS & Observables. HTTP task. [YouTube Client App stage3](https://github.com/Ihar-dev/youtube-client/pull/4)
+
+* Angular. Modules & Services. Routing task. [YouTube Client App stage2](https://github.com/Ihar-dev/youtube-client/pull/3)
+
+* Angular. Components. Directives & Pipes task. [YouTube Client App stage1](https://github.com/Ihar-dev/youtube-client/pull/2)
 
 #### HTML/CSS/JavaScript projects
 [![RS Lang](https://img.shields.io/badge/RS_Lang-blue?style=flat-square-endpoint&logo=github&logoColor=blue&labelColor=F3F3F3)](https://ihar-dev.github.io/rslang/app) - HTML/CSS/JavaScript team task (as a Team Lead) [Video link](https://youtu.be/5j-6WmDMNGY)
