@@ -26,7 +26,7 @@
 * File system, OS, Readline, Streams, Environment: [File Manager](https://github.com/Ihar-dev/file-manager/pull/1)
 * File system, CLI, Modules, Hash, Streams, Zlib, Worker Threads, Child Processes: [Node.js basics](https://github.com/Ihar-dev/node-nodejs-basics/pull/1)
 #### Angular projects
-[![Project Management App](https://img.shields.io/badge/Project_Management_App-D83A56?style=flat-square-endpoint&logo=github&logoColor=D83A56&labelColor=F3F3F3)](https://ihar-dev.github.io/project-management-app/project-management-app/dist/project-management-app) - Angular team task (as a Team Lead) [Video link](https://youtu.be/TXBK4Bc3swc) [Pull Request link](https://github.com/Ihar-dev/project-management-app/pull/35)
+[![Project Management App](https://img.shields.io/badge/Project_Management_App-D83A56?style=flat-square-endpoint&logo=github&logoColor=D83A56&labelColor=F3F3F3)](https://ihar-dev.github.io/project-management-app/project-management-app/dist/project-management-app) - Angular team task (as a Team Lead) [Video link](https://youtu.be/TXBK4Bc3swc) Code: [Pull Request link](https://github.com/Ihar-dev/project-management-app/pull/35)
 
 [![YouTube Client App](https://img.shields.io/badge/YouTube_Client_App-D83A56?style=flat-square-endpoint&logo=github&logoColor=D83A56&labelColor=F3F3F3)](https://ihar-dev.github.io/youtube-client/YouTube-client-app/dist/you-tube-client-app)
 
